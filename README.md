@@ -1,5 +1,4 @@
 # ArchiBardo
-<<<<<<< HEAD
 
 El sistema ArchiBardo funciona en la versión 3.11 de Python.
 
@@ -14,5 +13,3 @@ Recuerde modificar la lista de tiposDeDocumentos.csv si desea probar con otras s
 Para utilizar, debe ejecutar el método principal de ArchiBardo.py
 
 Para dudas, puede contactar al autor.
-=======
->>>>>>> 0e19a5908547b30731e4acc35ad60a1b18b82a58
