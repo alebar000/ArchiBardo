@@ -33,5 +33,7 @@ Desde línea de comandos, puede invocar el script de ArchiBardo.py
 
 ## Autores
 Alexander Barquero Elizondo
+
 Ana Catalina Chacón Hernández
+
 Sofía Irola Rojas
